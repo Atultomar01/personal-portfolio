@@ -159,6 +159,9 @@
     .icons li{
         width: 40px;
     }
+    .project-description .tools li{
+        font-size: 12px;
+    }
     .service-box{
         width:100% ;
     }
