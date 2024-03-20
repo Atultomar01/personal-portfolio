@@ -1,0 +1,53 @@
+
+/* Home  */
+.home-content{
+    opacity: 0;
+  }
+  .home-content .animated{
+    opacity: 1;
+  }
+  
+  /* About  */
+  .about-text-1,.about-text-2, .sign{
+    opacity: 0;
+  }
+  .about-text-1 .animated, .about-text-2 .animated, .sign.animated{
+    opacity: 1;
+  }
+  .sign.animated{
+    opacity: 1;
+  }
+  /* project  */
+  .proj-img-1,.proj-img-2,.proj-img-3{
+    opacity: 0;
+  }
+  
+  .proj-img-1 .animated,.proj-img-2 .animated,.proj-img-3 .animated{
+    opacity: 1;
+  }
+  .proj-desc-1,.proj-desc-2, .proj-desc-3{
+    opacity: 0;
+  }
+  .proj-desc-1 .animated,.proj-desc-2 .animated,.proj-desc-3{
+    opacity: 1;
+  }
+  .proj-desc-3{
+    opacity: 0;
+  }
+  
+  
+  /* skills  */
+  .skill-bold,.skill-par, .skill-icon{
+    opacity: 0;
+  }
+  .skill-bold .animated,.skill-par .animated,.skill-icon .animated{
+    opacity: 1;
+  }
+  
+  /* Contact  */
+  .contact-left{
+    opacity: 0;
+  }
+  .contact-left .animated{
+    opacity: 1;
+  }
