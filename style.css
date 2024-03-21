@@ -316,7 +316,7 @@ section .title{
     align-items: center;
   }
   .skills-content .column {
-    padding: 20px;
+    padding: 20px 0;
   }
   .skills-content .column h3 span{
     color:#1357a6;
