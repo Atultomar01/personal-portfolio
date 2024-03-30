@@ -65,7 +65,7 @@ $('.menu-btn').click(function(){
     $('.skills-content').waypoint(function(direction){
         $('.skill-bold').addClass('animate__animated animate__fadeInLeft');
         $('.skill-par').addClass('animate__animated animate__fadeInRight');
-        $('.skill-icon').addClass('animate__animated animate__fadeInUpBig');
+        $('.skill-icon').addClass('animate__animated animate__rotateIn');
     },{
     offset: '70%'
     })     
